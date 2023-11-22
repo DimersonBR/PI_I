@@ -28,9 +28,7 @@ Exemplo: C:\PROJETO\PI_I
 
 Acesse a pasta onde copiou os arquivos e execute os seguintes commandos:
 Execute no caso de estiver usando o Windows com o botão do lado diretio a opção, conforme imagem abaixo:
-Em cima da pasta C:\PROJETO\
-
-![Exemplo Explorer](Caminho_configura%C3%A7%C3%A3o_GIT.jpeg)
+Em cima da pasta C:\PROJETO\PI_I
 
 ## ⚙️ Rodar uma única vez na máquina para configurar
 
@@ -61,8 +59,8 @@ Pronto após executar seus arquivos já estarão publicados em seu GIT.
 Ferramentas utilizadas neste projeto
 
 * [GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) - sistema de controle de versões
-* [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/tiamelcoxinha.git
-* [VECEL](https://maven.apache.org/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://tiamelcoxinha-ekbfcvmmg-dimersonbrs-projects.vercel.app
+* [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/PI_I.git
+* [VECEL](https://maven.apache.org/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://projeto_pi_i-dimersonbrs-projects.vercel.app
 * [VSCODE](https://rometools.github.io/rome/) - Acesso IDE ( Sugiro a instalação do VSCODE - Microsoft), porque possui uma integração nativa com o sistema de controle de versão Git, facilitando o controle de versão e atualização de seu projeto.
 
 ## ✒️ Autores: 
