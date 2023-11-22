@@ -1,0 +1,128 @@
+/* Paleta de cores => Logo ( Utilizando no site )*/
+/* #1ebf9e - Azul Fundo Claro
+/* #7c1b12 - Azul escuro Carrinho
+/* #e15d37 - Letras do logo
+/* #fee914 - Amarelo do Globo
+/* #f0f0f0 - Branco
+
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /*opacity: 0.5; */
+    background-color: #f0f0f0;
+    background-image: url("/img/fd_tecnologia.png"); /* imagem de fundo */
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento body */
+    background-size: 100%;
+    background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
+    background-attachment: fixed; /* Fixa a imagem de fundo para que ela não role com a página */
+    background-position: center;
+}
+
+/* Estilos Cabeçalho */
+header {
+    background-color: #1ebf9e;
+    color: #e15d37;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+/* Estilos Margens Menu de opções */
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around; /* Distribui o espaço horizontalmente entre os itens */
+    justify-content: center;
+    list-style: none; /* Remove a estilização padrão da lista */
+    padding: 10;
+  }
+  
+  .menu li {
+    flex: 1; /* Faz com que cada item ocupe uma parte igual do espaço disponível */
+    text-align: center; /* Centraliza o texto dentro do item */
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 10;
+   /* opacity: 0.7;  */
+  }
+  
+  .menu li a {
+    text-decoration: none; /* Remove o sublinhado padrão dos links */
+    color: #f0f0f0; /* Cor dos links */
+    display: block;
+    padding: 10px;
+  }
+  
+
+section {
+    max-width: 1800px;
+    margin: 0 auto;
+    /* background-color: rgba(255, 255, 255, 0.103);  /*Usado RGB para incluir transparencia*/
+    box-shadow: 0 0 0px rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    color: #08333c;
+    text-align: center;
+    padding: 10px;
+}
+
+.fd_secao {
+    max-width: 1800px;
+    margin:0%;
+    background-color: rgba(255, 255, 255, 0.30);  /*Usado RGB para incluir transparencia*/
+    box-shadow: 0 0 1px rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    color: #08333c;
+    text-align:center;
+    padding: 600px;
+}
+
+footer {
+    background-color: #1ebf9e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    color: #08333c;
+    text-align: center;
+    padding: 5px;
+}
+
+/* Botão de estilo */
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #08333c;
+    color: #fee914;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #e15d37;
+}
+
+/* styles.css */
+.logo {
+    float: left; /* Alinha a imagem à esquerda */    
+    max-width: 200px;
+    margin-right: 10px; /* Adicione margem à direita para separar o logotipo do título */
+}
+
+.fd_imagem {
+    float: inline-start; /* Alinha a imagem */    
+    max-width: 0px;
+    margin-right: 0px; /* Adicione margem à direita para separar o logotipo do título */
+}
