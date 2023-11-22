@@ -28,9 +28,7 @@ Exemplo: C:\PROJETO\PI_I
 
 Acesse a pasta onde copiou os arquivos e execute os seguintes commandos:
 Execute no caso de estiver usando o Windows com o botão do lado diretio a opção, conforme imagem abaixo:
-Em cima da pasta C:\PROJETO\
-
-![Exemplo Explorer](Caminho_configura%C3%A7%C3%A3o_GIT.jpeg)
+Em cima da pasta C:\PROJETO\PI_I
 
 ## ⚙️ Rodar uma única vez na máquina para configurar
 
