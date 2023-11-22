@@ -60,8 +60,8 @@ Ferramentas utilizadas neste projeto
 
 * [GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) - sistema de controle de versões
 * [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/PI_I.git
-* [VECEL](https://maven.apache.org/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://projeto_pi_i-dimersonbrs-projects.vercel.app
-* [VSCODE](https://rometools.github.io/rome/) - Acesso IDE ( Sugiro a instalação do VSCODE - Microsoft), porque possui uma integração nativa com o sistema de controle de versão Git, facilitando o controle de versão e atualização de seu projeto.
+* [VECEL](https://vercel.com/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://emarketconnect.vercel.app/
+* [VSCODE](https://code.visualstudio.com/download) - Acesso IDE ( Sugiro a instalação do VSCODE - Microsoft), porque possui uma integração nativa com o sistema de controle de versão Git, facilitando o controle de versão e atualização de seu projeto.
 
 ## ✒️ Autores: 
 
