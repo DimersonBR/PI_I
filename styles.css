@@ -18,6 +18,28 @@ body {
     background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
     background-attachment: fixed; /* Fixa a imagem de fundo para que ela não role com a página */
     background-position: center;
+    
+}
+/* Estilos para dispositivos móveis */
+/* Por exemplo, para telas menores que 768px */
+@media only screen and (max-width: 767px) {
+    /* Adicione seus estilos específicos para dispositivos móveis aqui */
+    /* Por exemplo: */
+    .menu {
+        display: none; /* Esconder o menu em dispositivos móveis */
+    }
+    /* Outros estilos para dispositivos móveis */
+}
+
+/* Estilos para desktops */
+/* Por exemplo, para telas maiores que 768px */
+@media only screen and (min-width: 768px) {
+    /* Adicione seus estilos específicos para desktops aqui */
+    /* Por exemplo: */
+    .menu {
+        display: block; /* Mostrar o menu em desktops */
+    }
+    /* Outros estilos para desktops */
 }
 
 /* Estilos Cabeçalho */
