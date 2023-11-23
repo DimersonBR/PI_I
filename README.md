@@ -56,7 +56,7 @@ Pronto após executar seus arquivos já estarão publicados em seu GIT.
 
 ## 🛠️ Construído com
 
-Ferramentas utilizadas neste projeto
+Ferramentas utilizadas neste projeto 
 
 * [GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) - sistema de controle de versões
 * [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/PI_I.git
