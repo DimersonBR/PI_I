@@ -59,9 +59,9 @@ Ferramentas utilizadas neste projeto
 
 ## ✒️ Autores: 
 
-* **Dimerson Ferreira** 
-* **Isabela Oliveira**
-* **Juliana Machado**
-* **Sheila Alves**
+* **Dimerson Ferreira (Desenvolvimento)** 
+* **Isabela Oliveira (Design e Documentação)**
+* **Juliana Machado (Design e Documentação)**
+* **Sheila Alves (Desenvolvimento e suporte Design)**
 * Trabalho de Projeto Interdisciplinar do 1o.Semestre FATEC FRANCA*
 * Gostou nos convide para uma Breja 🍺;
