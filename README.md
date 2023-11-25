@@ -56,6 +56,7 @@ Ferramentas utilizadas neste projeto
 * [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/emarketconnect
 * [VECEL](https://vercel.com/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://emarketconnect.vercel.app/
 * [VSCODE](https://code.visualstudio.com/download) - Acesso IDE ( Sugiro a instalação do VSCODE - Microsoft), porque possui uma integração nativa com o sistema de controle de versão Git, facilitando o controle de versão e atualização de seu projeto.
+* [FIGMA] (https://www.figma.com/file/kKencEcNQyBtLGd9bP0FIi/Projeto-DSM?type=design&node-id=0%3A1&mode=design&t=xUwPZbxtpV13ePSE-1) - Neste link você terá acesso a nossa prototipação
 
 ## ✒️ Autores: 
 
