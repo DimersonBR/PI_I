@@ -21,14 +21,8 @@ https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
 ```
 Após a instalação do GIT, acesse o caminho abaixo para ter acesso ao projeto:
 ```
-https://github.com/DimersonBR/PI_I.git
+https://github.com/DimersonBR/PI_I.git ou https://github.com/Sheila724/emarketconnect.git
 ```
-Baixe os arquivos deste projeto em uma pasta local: 
-Exemplo: C:\PROJETO\PI_I
-
-Acesse a pasta onde copiou os arquivos e execute os seguintes commandos:
-Execute no caso de estiver usando o Windows com o botão do lado diretio a opção, conforme imagem abaixo:
-Em cima da pasta C:\PROJETO\PI_I
 
 ## ⚙️ Rodar uma única vez na máquina para configurar
 
