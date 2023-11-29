@@ -1,17 +1,27 @@
 # Título do projeto:  e-market connect
-Site simples para divulgação de informações sobre como vender na internet.
+Site Simples utilizando HTML e CSS para divulgação de informações sobre como vender na internet.
 O ponto focal da proposta era atender o item ONU ODS 11: DESAFIOS PARA IMPLEMENTAÇÃO
 Respondendo a pergunta cada vez mais frequente na sociedade: "Como vender na internet ?"
-O projeto tem como meta ser um recurso valioso e confiável para aqueles interessados em ingressar no comércio online. Seu propósito é ajudar empreendedores a compreender os aspectos essenciais da criação e gestão de um negócio trazendo informações para ajudar na implmentação bem-sucedido na esfera virtual. Através da oferta de informações detalhadas desde o início, oferecendo insights abrangentes e práticos para esclarecer dúvidas comuns no começo desse processo, o objetivo é capacitar empreendedores a tomar medidas sólidas que os conduzam ao alcance de seus objetivos em um ambiente digital em constante mudança. Foco seria juntar informações de ferramentas e informações como um guia a ser seguido como instrutura básica de orientações para tomadas de decisões esse documento apresenta a modelagem do sistema <e-market connect>, utilizando os materiais disponíveis e referenciados em sala de aula. No futuro queremos ir implantando e buscar e referenciar cada vez mais informações, onde possamos através de parceiros prestadores de serviços nestas áreas para poder viabilizar financeiramente através das divulgações as melhorias deste projeto. 
-
+O projeto tem como meta ser um recurso valioso e confiável para aqueles interessados em ingressar no comércio online. Seu propósito é ajudar empreendedores a compreender os aspectos essenciais da criação e gestão de um negócio trazendo informações para ajudar na implmentação bem-sucedido na esfera virtual. Através da oferta de informações detalhadas desde o início, oferecendo insights abrangentes e práticos para esclarecer dúvidas comuns no começo desse processo, o objetivo é capacitar empreendedores a tomar medidas sólidas que os conduzam ao alcance de seus objetivos em um ambiente digital em constante mudança. Foco seria juntar informações de ferramentas e informações como um guia com diversas informações para tomanda de decisões esse site apresenta abaixo a modelagem do sistema, prototipação, requisitos e as configurações do <e-market connect>, utilizando os materiais disponíveis e referenciados em sala de aula. No futuro queremos ir aprimorando para implantar novos recursos para atingir um objetivo comercial, buscando e referenciar cada vez mais informações, onde possamos através de parceiros prestadores de serviços nestas áreas para poder viabilizar financeiramente através das divulgações as melhorias deste projeto. 
 
 ## 🚀 Começando
 Essas instruções permitirão que você obtenha acesso uma cópia do projeto desenvolvido em HTML e CSS, passivel para realizar atualizações e manutenções futuras.
 
+Acesse arquivo com os Requisitos:
+* [RUP e canvas](https://github.com/DimersonBR/emarketconnect/blob/emarketconnect/img/RUP_PI_1_canva.pdf) - Dados detalhados
+
 ### 📋 Pré-requisitos
 
 Conhecimento em HTML e CSS, padrões de boas praticas seguir no site: https://www.w3schools.com/css/default.asp
+Criação de logo, utilizando as ferramentas: Inkscape e Krita
 
+* [logomarca](https://github.com/DimersonBR/emarketconnect/blob/emarketconnect/img/logo_emarket-connect.jpeg) - Logomarca do Projeto
+* [Paleta](https://github.com/DimersonBR/emarketconnect/blob/emarketconnect/img/paleta_emarket_connect.jpeg) - Paleta de cores do projeto
+/* #1ebf9e - Azul Fundo Claro
+/* #7c1b12 - Azul escuro Carrinho
+/* #e15d37 - Letras do logo
+/* #fee914 - Amarelo do Globo
+/* #f0f0f0 - Branco
 
 ### 🔧 Instalação
 
@@ -59,7 +69,7 @@ Ferramentas utilizadas neste projeto
 * [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/emarketconnect
 * [VERCEL](https://vercel.com/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://emarketconnect.vercel.app/
 * [VSCODE](https://code.visualstudio.com/download) - Acesso IDE ( Sugiro a instalação do VSCODE - Microsoft), porque possui uma integração nativa com o sistema de controle de versão Git, facilitando o controle de versão e atualização de seu projeto.
-* [FIGMA] (https://www.figma.com/file/kKencEcNQyBtLGd9bP0FIi/Projeto-DSM?type=design&node-id=0%3A1&mode=design&t=xUwPZbxtpV13ePSE-1) - Neste link você terá acesso a nossa prototipação
+* [FIGMA](https://www.figma.com/file/kKencEcNQyBtLGd9bP0FIi/Projeto-DSM?type=design&node-id=0%3A1&mode=design&t=xUwPZbxtpV13ePSE-1) - Neste link você terá acesso a nossa prototipação
 
 ## ✒️ Autores: 
 
@@ -69,4 +79,5 @@ Ferramentas utilizadas neste projeto
 * **Sheila Alves (Desenvolvimento e suporte Design)**
 
 * *Trabalho de Projeto Interdisciplinar do 1o.Semestre FATEC FRANCA*
+* [video]() - Mais informações acompanhe esse video.
 * Gostou nos convide para uma Breja 🍺;
