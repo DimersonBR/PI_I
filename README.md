@@ -9,6 +9,7 @@ Essas instruções permitirão que você obtenha acesso uma cópia do projeto de
 
 Acesse arquivo com os Requisitos:
 * [RUP e canvas](https://github.com/DimersonBR/emarketconnect/blob/emarketconnect/img/RUP_PI_1_canva.pdf) - Dados detalhados
+* [FIGMA](https://www.figma.com/file/kKencEcNQyBtLGd9bP0FIi/Projeto-DSM?type=design&node-id=0%3A1&mode=design&t=xUwPZbxtpV13ePSE-1) - Neste link você terá acesso a nossa prototipação
 
 ### 📋 Pré-requisitos
 
@@ -69,15 +70,17 @@ Ferramentas utilizadas neste projeto
 * [GITHUB](https://github.com/) plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git=> Exemplo: https://github.com/DimersonBR/emarketconnect
 * [VERCEL](https://vercel.com/) - Acesso a conta na VECEL (Redirecionamnento para dominio publico de forma gratuita) => Exemplo: https://emarketconnect.vercel.app/
 * [VSCODE](https://code.visualstudio.com/download) - Acesso IDE ( Sugiro a instalação do VSCODE - Microsoft), porque possui uma integração nativa com o sistema de controle de versão Git, facilitando o controle de versão e atualização de seu projeto.
-* [FIGMA](https://www.figma.com/file/kKencEcNQyBtLGd9bP0FIi/Projeto-DSM?type=design&node-id=0%3A1&mode=design&t=xUwPZbxtpV13ePSE-1) - Neste link você terá acesso a nossa prototipação
+* [KRITA](https://krita.org/en/download/krita-desktop/) - Programa para edição e criação imagens
+* [INKSCAPE](https://inkscape.org/pt-br/) - Programa para edição das imagens vetoriais
+* [FIGMA](https://www.figma.com/) - Acesse o link para se cadastrar e desenvolver prototipação
 
 ## ✒️ Autores: 
 
-* **Dimerson Ferreira (Desenvolvimento e Design)** 
-* **Isabela Oliveira (Design e Documentação)**
-* **Juliana Machado (Design e Documentação)**
-* **Sheila Alves (Desenvolvimento e suporte Design)**
+* **[Dimerson Ferreira](https://www.linkedin.com/in/dimerson-ferreira/) - (Desenvolvimento e Design)** 
+* **[Isabela Oliveira](https://www.linkedin.com/in/bodelha/) - (Design e Documentação)**
+* **[Juliana Machado](https://www.linkedin.com/in/juliana-machado-61882b141) - (Design e Documentação)**
+* **[Sheila Alves](https://www.linkedin.com/in/sheila-alves-952053102/) - (Desenvolvimento e suporte Design)**
 
 * *Trabalho de Projeto Interdisciplinar do 1o.Semestre FATEC FRANCA*
-* [video]() - Mais informações acompanhe esse video.
+* [Apresentação Youtube]() - Mais informações acompanhe esse video.
 * Gostou nos convide para uma Breja 🍺;
