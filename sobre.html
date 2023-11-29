@@ -8,12 +8,30 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header> 
-        <a href="index.html">
+    <style>
+        #contat_link a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            text-align: center; 
+            line-height: 0; 
+            margin: 0;
+            padding: 0;
+        }
+
+        #contat_link a:hover {
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+    <header>
+        <a href="index.html"> 
             <img src="/img/logo_emarket-connect.jpeg" alt="e-market connect" class="logo">
         </a>
-        <h1>Sobre nós - Contato</h1> <!-- Título principal da página -->
-        <nav> <!-- Elemento de navegação, representa uma seção que aponta para outras páginas-->
+        <nav> <!-- Elemento e navegação, representa uma seção que aponta para outras páginas-->
+            <ul class="Topo">
+                <h1>Contato</h1>
+            </ul>
             <ul class="menu"> <!-- Elemento que representam uma lista de itens desordenadas -->
                 <li><a href="index.html" class="btn">Home</a></li> 
                 <li><a href="marketplace.html" class="btn">Marketplaces</a></li> 
@@ -25,21 +43,29 @@
         </nav>
     </header>
     <section>
-        <div class="fd_secao">
-            <div class="fd_imagem">
-                <img src="/img/fd_inteligencia-de-mercado.png" alt="Imagem fundo">
+        <div class="content">
+            <div class="text-section">
+                <div class="image-wrapper">
+                    <img src="/img/Ehnos.png" alt="sobre" width="95%">
+                </div>                    
+                <div>
+                    <h1>Projeto Interdisciplinar<br>1º Semestre DSM</h1>
+                    <p style="text-align: center;">
+                        Combinando as matérias aplicadas em sala de aula com foco nas disciplinas de Engenharia de Software I (IES011), 
+                        Desenvolvimento Web I (ISW028) e Design Digital (ISW031), o grupo formado pelos Alunos:
+                    <ul class="students-list" style="color: white" text-decoration="none";>
+                        <li><a href="https://www.linkedin.com/in/dimerson-ferreira/" target="_blank" style="text-decoration: none; color: white;">Dímerson Ferreira</a></li>
+                        <li><a href="https://www.linkedin.com/in/isabelaXXXXXX/" target="_blank" style="text-decoration: none; color: white;">Isabela Oliveira</a></li>
+                        <li><a href="https://www.linkedin.com/in/julianaXXXXXX/" target="_blank" style="text-decoration: none; color: white;">Juliana Machado</a></li>
+                        <li><a href="https://www.linkedin.com/in/sheila-alves-952053102/" target="_blank" style="text-decoration: none; color: white;">Sheila Alves de Araújo</a></li>
+                    </ul>
+                </div>
             </div>
-            <h2>Informações de Contato</h2>
-            <p>XXXXXX - Rua XXXXXX, 9999 - Cidade Franca-SP</p>
-            <p>Telefone: (16) 99XXX-XXXX</p>
-            <p>E-mail: ficticio@emarketconnect.com.br</p>
-            <p><a href="https://www.instagram.com/emarketconnect/">Siga-nos no Instagram</a></p>
-
-            
         </div>
     </section>
-    <footer>
-        <p>&copy;2023 e-market connect</p>
+
+    <footer> <!-- O elemento HTML de Rodapé -->
+        <p><b> 2023 &copy; e-Market Connect</b></p> <!-- Texto rodapé com o símbolo de direitos autorais e o nome de empresa -->
     </footer>
 </body>
 </html>

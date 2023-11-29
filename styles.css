@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    /*opacity: 0.5; */
+    /*opacity: 90%; */
     background-color: #f0f0f0;
     background-image: url("/img/fd_tecnologia.png"); /* imagem de fundo */
     background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento body */
@@ -181,29 +181,26 @@ footer {
     font-size: 16px;
     color: #f0f0f0;
     font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
-    text-align: left;
+    text-align: right;
     line-height: 1.8;
-    padding: 80px;
+    padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 30vh;
     width: 95vh;
-  
   }
-    
   .image-section {
     flex: 1;
     display: flex;
     justify-content: flex-end;
     align-items: right;
-    width: 60%;
-    height: 60%;
+
   }
   
   .image-section img {
     max-width: 70%;
-    height: auto;
+    height: auto; 
     padding: 10px;
   }
   .content {
@@ -217,7 +214,25 @@ footer {
 }
 
 .text-wrapper {
-    width: 30%;
+    width: 0%;
     padding-right: 10px; /* Espaçamento entre o texto e a imagem (pode ser ajustado conforme necessário) */
+    color: white;
+    text-decoration: none;
 }
 
+
+.students-list {
+    list-style: none;
+    padding: 0;
+    color: white;
+    text-decoration: none;
+}
+
+.students-list li {
+    margin-bottom: 10px;
+
+}
+.project-info {
+    flex: 1;
+
+}
